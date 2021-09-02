@@ -35,7 +35,7 @@
   <summary>:art: GitHub Repositories</summary>
   
 <!--START_SECTION:activity-->
-1. :gem: Cosmotics  [Files](https://github.com/Michalluzniak/Cosmotics) and [Page] (https://michalluzniak.github.io/Cosmotics/)
+1. :gem: Cosmotics  [Files](https://github.com/Michalluzniak/Cosmotics) and [Page](https://michalluzniak.github.io/Cosmotics/)
 <!--END_SECTION:activity-->
 
 </details>
