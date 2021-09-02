@@ -7,8 +7,7 @@
 - 🎯 2021 Goals: Finds first job as Junior Front End Developer
 - ⭐ About Me: I love to play guitar and making / drink specialty Coffee
 
-### Contact:
-
+### Reach Me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
@@ -40,6 +39,10 @@
 <!--END_SECTION:activity-->
 
 </details>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michalluzniak)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 [facebook]: https://www.facebook.com/michal.luzniak
 [linkedin]: https://www.linkedin.com/in/michalluzniak/
