@@ -44,5 +44,5 @@
 
 
 
-[facebook]: https://www.facebook.com/michal.luzniak
-[linkedin]: https://www.linkedin.com/in/michalluzniak/
+[gmail]: michal.luzniak8@gmail.com
+[[linkedin](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)]: https://www.linkedin.com/in/michalluzniak/
