@@ -9,8 +9,8 @@
 
 ### Reach Me:
 
-<img src="{https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white
-}" />
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)][1]
 
 
 <br />
