@@ -1,15 +1,15 @@
 # Hello, I'm Michael
 
 
-## I'm a future Front End Developer
+## I'm a Junior Front End Developer
 
-- 📚 I’m currently learning Java Script and React
-- 🎯 2021 Goals: Finds first job as Junior Front End Developer
+- 📚 I’m currently learning React Native
+- 🎯 2023 Goals: Mid Front End Developer
 - ⭐ About Me: I love to play guitar and making / drink specialty Coffee
 
 ### Reach Me:
 
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+![https://www.linkedin.com/in/michalluzniak/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )
 
 
