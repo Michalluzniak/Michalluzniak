@@ -45,4 +45,5 @@
 
 
 [gmail]: michal.luzniak8@gmail.com
-[[linkedin](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)]: https://www.linkedin.com/in/michalluzniak/
+<img src="{https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white
+}"  https://www.linkedin.com/in/michalluzniak/>
