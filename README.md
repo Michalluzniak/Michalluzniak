@@ -9,8 +9,8 @@
 
 ### Reach Me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
+<img src="{https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white
+}"  https://www.linkedin.com/in/michalluzniak/>
 
 
 <br />
@@ -44,6 +44,5 @@
 
 
 
-[gmail]: michal.luzniak8@gmail.com
-<img src="{https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white
-}"  https://www.linkedin.com/in/michalluzniak/>
+
+
