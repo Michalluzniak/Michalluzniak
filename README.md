@@ -10,7 +10,7 @@
 ### Reach Me:
 
 <img src="{https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white
-}"  https://www.linkedin.com/in/michalluzniak/>
+}" />
 
 
 <br />
