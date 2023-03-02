@@ -9,7 +9,7 @@
 
 ### Reach Me:
 
-<a href="https://www.linkedin.com/in/michalluzniak/">
+<a href="https://www.linkedin.com/in/michalluzniak/" padding-right="10px">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
