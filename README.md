@@ -45,7 +45,7 @@
 
 
 <details>
-  <summary>:art: GitHub Repositories</summary>
+  <summary>:art: My Projects:</summary>
   
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
