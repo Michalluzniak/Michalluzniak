@@ -40,18 +40,6 @@
 <img align="left" width="32px" padding-right="10px" alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <br />
 
 ---
@@ -61,12 +49,11 @@
   <summary>:art: GitHub Repositories</summary>
   
 <!--START_SECTION:activity-->
-1. :gem: Cosmotics  [Files](https://github.com/Michalluzniak/Cosmotics) and [Page](https://michalluzniak.github.io/Cosmotics/)
 <!--END_SECTION:activity-->
 
 </details>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Michalluzniak)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichalLuzniak&show_icons=true&theme=react)
 
 
 
