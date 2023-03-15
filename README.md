@@ -45,10 +45,11 @@
 
 
 <details>
-  <summary>:art: My Projects:</summary>
+  <summary>:art: ###My Projects:</summary>
   
 <!--START_SECTION:activity-->
   <a href="https://michalluzniak.github.io/Rick-and-Morty-Character-List/">
+    R
   <img src="https://github.com/Michalluzniak/Michalluzniak/blob/main/rickAndMorty.png" width="512">
   </a>
 <!--END_SECTION:activity-->
