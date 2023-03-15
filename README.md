@@ -48,6 +48,7 @@
   <summary>:art: My Projects:</summary>
   
 <!--START_SECTION:activity-->
+  <img src="https://github.com/Michalluzniak/Michalluzniak/blob/main/rickAndMorty.png" href="https://michalluzniak.github.io/Rick-and-Morty-Character-     List/">
 <!--END_SECTION:activity-->
 
 </details>
