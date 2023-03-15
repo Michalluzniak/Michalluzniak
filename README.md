@@ -48,10 +48,10 @@
     <summary>:art: My Projects:</summary>
   
 <!--START_SECTION:activity-->
-  <a href="https://michalluzniak.github.io/Rick-and-Morty-Character-List/">
-    Rick and Morty Character List </br>
+   Rick and Morty Character List </br>
     Repo: https://github.com/Michalluzniak/Rick-and-Morty-Character-List </br>
     Website: </br>
+  <a href="https://michalluzniak.github.io/Rick-and-Morty-Character-List/">
   <img src="https://github.com/Michalluzniak/Michalluzniak/blob/main/rickAndMorty.png" width="512">
   </a>
 <!--END_SECTION:activity-->
