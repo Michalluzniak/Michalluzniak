@@ -44,8 +44,8 @@
 ---
 
 
-###  <details>
-       <summary>:art: My Projects:</summary>
+### :art: <My Projects>
+
   
 <!--START_SECTION:activity-->
   <a href="https://michalluzniak.github.io/Rick-and-Morty-Character-List/">
