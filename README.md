@@ -49,7 +49,7 @@
   
 <!--START_SECTION:activity-->
   <a href="https://michalluzniak.github.io/Rick-and-Morty-Character-List/">
-  <img src="https://github.com/Michalluzniak/Michalluzniak/blob/main/rickAndMorty.png" width="256">
+  <img src="https://github.com/Michalluzniak/Michalluzniak/blob/main/rickAndMorty.png" width="512">
   </a>
 <!--END_SECTION:activity-->
 
