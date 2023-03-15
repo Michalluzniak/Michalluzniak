@@ -44,8 +44,8 @@
 ---
 
 
- <details>
-    <summary>:art: My Projects:</summary>
+
+ ### My Projects:
   
 <!--START_SECTION:activity-->
 
@@ -66,7 +66,7 @@
  
 <!--END_SECTION:activity-->
 
-</details>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichalLuzniak&show_icons=true&theme=react)
 
