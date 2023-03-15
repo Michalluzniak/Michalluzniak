@@ -43,12 +43,12 @@
 
 ---
 
-
+  <div  float="left">
  <details>
     <summary>:art: My Projects:</summary>
   
 <!--START_SECTION:activity-->
-  <div  float="left">
+
  - Rick and Morty Character List </br>
    📖 <a href="https://github.com/Michalluzniak/Rick-and-Morty-Character-List">Repository</a></br>
    🌐 Live </br>
@@ -63,11 +63,11 @@
   <img src="https://github.com/Michalluzniak/Michalluzniak/blob/main/weatherApp.png" width="400">
 <!--   </a> -->
   
-  </div>
+ 
 <!--END_SECTION:activity-->
 
 </details>
-
+ </div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichalLuzniak&show_icons=true&theme=react)
 
 
