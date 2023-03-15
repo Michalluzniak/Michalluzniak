@@ -43,7 +43,7 @@
 
 ---
 
-  <div  float="left">
+
  <details>
     <summary>:art: My Projects:</summary>
   
@@ -67,7 +67,7 @@
 <!--END_SECTION:activity-->
 
 </details>
- </div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichalLuzniak&show_icons=true&theme=react)
 
 
