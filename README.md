@@ -49,8 +49,8 @@
   
 <!--START_SECTION:activity-->
    Rick and Morty Character List </br>
-   <a href="https://github.com/Michalluzniak/Rick-and-Morty-Character-List">📖 Repo </a>  </br>
-   🌐 Website: </br>
+   📖<a href="https://github.com/Michalluzniak/Rick-and-Morty-Character-List">Repository</a></br>
+   🌐 Live </br>
   <a href="https://michalluzniak.github.io/Rick-and-Morty-Character-List/">
   <img src="https://github.com/Michalluzniak/Michalluzniak/blob/main/rickAndMorty.png" width="512">
   </a>
