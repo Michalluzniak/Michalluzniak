@@ -63,6 +63,12 @@
   <img src="https://github.com/Michalluzniak/Michalluzniak/blob/main/weatherApp.png" width="400">
 <!--   </a> -->
   
+ - Color Tiles </br>
+   📖 <a href="https://github.com/Michalluzniak/Color-Tiles">Repository</a></br>
+   🌐 Live </br>
+  <a href="https://michalluzniak.github.io/Color-Tiles/">
+  <img src="https://github.com/Michalluzniak/Michalluzniak/blob/main/color-tiles.png" width="400">
+  </a>
  
 <!--END_SECTION:activity-->
 
