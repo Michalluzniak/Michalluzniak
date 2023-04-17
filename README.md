@@ -49,7 +49,7 @@
   
 <!--START_SECTION:activity-->
 
- - Rick and Morty Character List </br>
+ - Rick and Morty Characters List </br>
    📖 <a href="https://github.com/Michalluzniak/Rick-and-Morty-Character-List">Repository</a></br>
    🌐 Live </br>
   <a  href="https://michalluzniak.github.io/Rick-and-Morty-Character-List/">
