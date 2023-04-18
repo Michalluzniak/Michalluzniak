@@ -3,8 +3,6 @@
 
 ## I'm a Junior Front End Developer
 
-- 📚 I’m currently learning React Native
-- 🎯 2023 Goals: Mid Front End Developer
 - ⭐ About Me: I love playing the guitar and making / drink specialty Coffee
 
 ### Reach Me:
